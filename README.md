@@ -1,3 +1,3 @@
 # stufinn.github.io
 
-### future portfolio site ~ stay tuned
+future portfolio site ~ stay tuned
